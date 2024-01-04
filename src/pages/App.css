@@ -1,0 +1,16 @@
+
+.landing-title-bar {
+  height: 50px;
+  background-color: rgb(75, 75, 75);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+  font-size: 2rem;
+}
+
+.selector-box-container {
+  display: flex;
+  flex-direction: row;
+  min-height: 70vh;
+}
